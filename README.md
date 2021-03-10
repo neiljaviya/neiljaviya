@@ -1,9 +1,8 @@
 ### Hi, It's me Neil Javiya..!! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravipabari" alt="ravipabari" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=neiljaviya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neiljaviya&show_icons=true&theme=merko" alt="neiljaviya" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neiljaviya&layout=compact&hide=html&show_icons=true&theme=merko" alt="neiljaviya" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=neiljaviya&theme=onedark" alt="neiljaviya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=neiljaviya&show_icons=true&theme=onedark" alt="neiljaviya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neiljaviya&layout=compact&hide=html&show_icons=true&theme=onedark" alt="neiljaviya" /></p>
 
 <!--
 **neiljaviya/neiljaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
