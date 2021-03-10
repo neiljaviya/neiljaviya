@@ -1,5 +1,5 @@
 ### Hi, It's me Neil Javiya..!! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravipabari" alt="ravipabari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neiljaviya" alt="ravipabari" /> </p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=neiljaviya&theme=onedark" alt="neiljaviya" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=neiljaviya&show_icons=true&theme=onedark" alt="neiljaviya" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neiljaviya&layout=compact&hide=html&show_icons=true&theme=onedark" alt="neiljaviya" /></p>
